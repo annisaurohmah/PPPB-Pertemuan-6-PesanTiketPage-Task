@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">TicketApp</string>
+    <string name="page_name"> Pesan Tiket </string>
+    <array name="types">
+        <item> Pesawat </item>
+        <item> Kereta Api </item>
+        <item> Bus </item>
+        <item> Kapal </item>
+        <item> Taksi </item>
+    </array>
+    <array name="cities">
+        <item>Jakarta</item>
+        <item>Surabaya</item>
+        <item>Denpasar, Bali</item>
+        <item>Medan</item>
+        <item>Makassar</item>
+        <item>Balikpapan</item>
+        <item>Yogyakarta</item>
+        <item>Bandung</item>
+        <item>Palembang</item>
+        <item>Semarang</item>
+        <item>Padang</item>
+        <item>Batam</item>
+        <item>Pekanbaru</item>
+        <item>Manado</item>
+        <item>Lombok</item>
+        <item>Ambon</item>
+        <item>Banjarmasin</item>
+        <item>Pontianak</item>
+    </array>
+    <array name="people">
+        <item> 1 Penumpang </item>
+        <item> 2 Penumpang </item>
+        <item> 3 Penumpang </item>
+        <item> 4 Penumpang </item>
+    </array>
+    <array name="classes">
+        <item> Ekonomi </item>
+        <item> Bisnis </item>
+        <item> Eksekutif </item>
+    </array>
+    <style name="title_style">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/poppins_bold</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+    <style name="menu_title">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/poppins_medium</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="option">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">5sp</item>
+        <item name="android:fontFamily">@font/poppins_regular</item>
+    </style>
+</resources>
